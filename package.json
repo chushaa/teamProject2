@@ -1,0 +1,23 @@
+{
+  "name": "squadteam2",
+  "version": "1.0.0",
+  "description": "Team Project using React",
+  "main": "index.js",
+  "scripts": {
+		"start": "node server.js",
+    "test": "npm -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chushaa/teamProject2.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Shaum Chughtai, Ryne Larson, Sahasha Reese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chushaa/teamProject2.git)/issues"
+  },
+  "homepage": "https://github.com/chushaa/teamProject2.git)#readme"
+}

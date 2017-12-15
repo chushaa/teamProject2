@@ -1,0 +1,76 @@
+body {
+  background-image: url("images/background.jpg");
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  z-index: -1;
+}
+#topLeft{
+  height: 60vh;
+  width: 53%;
+  display: inline;
+  float: left;
+  margin-right: 3%;
+}
+#topHalf{
+  height: 73%;
+  width: 100%;
+  display: inline;
+}
+#bottomHalf{
+  height: 25%;
+  width: 100%;
+  display: inline;
+}
+#topRight{
+  height: 60vh;
+  width: 40%;
+  display: inline;
+  float: left;
+}
+#bottom{
+  height: 40vh;
+  width: 100%;
+  display: inline;
+  float: left;
+}
+h1, p{
+  text-align: center;
+  color: white;
+}
+.chart-container {  
+  background: white;
+  padding: 16px;
+}
+canvas {
+  border: 1px dotted #808080;
+}
+.chart-container {
+  position: relative;
+  margin: auto;
+  height: 73%;
+}
+#second-chart-container{
+  width: 65%;
+  margin: 0 auto;
+}
+table{
+overflow-y: scroll;
+height: 100%;
+display: block;
+border-collapse: collapse;
+}
+table, tbody th, td{
+background-color: rgba (0, 0, 0, 0, 0.3);
+color: white;
+border: 1px solid white;
+}
+logo{
+  height: 10vh;
+  width: 60%;
+  align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2vh;
+}
